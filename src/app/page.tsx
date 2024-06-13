@@ -1,6 +1,6 @@
-import React from "react";
+import { FC } from "react";
 
-const Page: React.FC = () => {
+const Page: FC = () => {
   return (
     <div>
       <h1>Hello, Next.js!</h1>
